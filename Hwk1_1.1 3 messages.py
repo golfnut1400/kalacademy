@@ -1,5 +1,7 @@
 # Introduction to Programming
 # Homework 1
+# Created by: Stan Corpuz
+# Jan 7, 2018
 
 #1.1
 # (Display three different messages) Write a program that displays"

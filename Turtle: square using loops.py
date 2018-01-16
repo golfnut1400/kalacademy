@@ -9,7 +9,7 @@ for i in range(4):
     smart.right(90)
 
 # This isn't indented, so we aren't repeating it.
-turtle.done()
+#turtle.done()
 
 
 print("start test")
@@ -19,6 +19,8 @@ for i in range(4):
     print("test")
 
 print("end test 1")
+print()
+
 
 for banana in range(20):
     print(banana)

@@ -9,7 +9,7 @@
 # Learn about the different Turtle method
 
 import turtle
-import shutil
+
 
 window = turtle.Screen()
 window.setup(width=400, height=400, startx=None, starty=None)   # set screen size to be 400px by 400px, with window set to center of screen

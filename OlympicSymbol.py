@@ -14,6 +14,7 @@ def drawCircle(color, x, y):
     turtle.circle(45)
 
 
+
 drawCircle("blue", -110, -25)
 drawCircle("black", 0, -25)
 drawCircle("red", 110, -25)

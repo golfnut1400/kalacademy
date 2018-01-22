@@ -3,6 +3,8 @@
 Homework 7
 Create a NoteBook
 
+USE THIS PROGRAM WITH HOMEWORK7.1.PY FILE
+
 # constructure of the class
 every class
 '''
@@ -31,7 +33,7 @@ last_id = 0
 
 class Note:
     def __init__(self, memo, tags=""):
-
+        # creation of the properties of the class
         self.memo = memo # using parameters
         self.tag = tags
         self.creationDate = datetime.date.today()

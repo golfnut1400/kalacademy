@@ -41,7 +41,7 @@ print ("Your subtotal = " '${:.2f}'.format(subTotal))
 tip = float((format(tip(),'.2f')))
 
 
-# Amt of tip from perchaces
+# Amt of tip from purchaces
 graturity = subTotal * tip
 
 print('The graturity is ${:.2f}'.format(graturity), 'and the total is', '${:.2f}'.format(subTotal+graturity))

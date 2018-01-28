@@ -1,5 +1,14 @@
 
 
+'''
+Introduction to Programming
+Homework 3
+Created by: Stan Corpuz
+Jan 27, 2018
+
+Homework 3
+'''
+
 def getPentagonalNumber(n):
     #p = n(3*n-1) // 2
     p = n*(3*n-1) // 2
